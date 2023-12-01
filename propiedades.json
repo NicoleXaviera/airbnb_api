@@ -1,0 +1,371 @@
+{
+    "properties": [
+      {
+        "id": 1,
+        "name": "Apartamento frente al mar",
+        "location": "Barcelona",
+        "country": "España", 
+        "description": "Luminoso apartamento con increíbles vistas al mar Mediterráneo. Excelente ubicación en la Barceloneta.",
+        "price_per_night": 120,
+        "guest_capacity": 4,
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "amenities": ["WiFi", "Cocina"],
+        "image": "https://experienciajoven.com/wp-content/uploads/2023/01/lugares-turisticos-de-espana.jpg",
+        "owner": {
+          "id": 101,
+          "name": "Emilio", 
+          "email": "emilio@airbnb.com"
+        }
+      },
+      {
+        "id": 2,
+        "name": "Habitación doble cerca del Retiro", 
+        "location": "Madrid",
+        "country": "España",
+        "description": "Hermosa habitación doble cerca del Parque del Retiro. Excelente ubicación en el corazón de Madrid.",
+        "price_per_night": 70,
+        "guest_capacity": 2,
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "amenities": ["WiFi", "Desayuno"], 
+        "image": "https://images.hola.com/imagenes/viajes/20220927217852/lugares-turisticos-espana-mas-importantes/1-143-321/gettyimages-200444817-001-a.jpg?tx=w_360",
+        "owner": {
+           "id": 102,
+           "name": "Ana",
+           "email": "ana@airbnb.com"
+         }
+      },
+      {
+        "id": 3,
+        "name": "Casa rural de piedra",
+        "location": "Segovia", 
+        "country": "España",
+        "description": "Casa rural de piedra restaurada ubicada en un entorno natural único a 5 minutos del Acueducto.",
+        "price_per_night": 100,
+        "guest_capacity": 5, 
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "amenities": ["Jardín", "Cocina"],
+        "image": "https://mayoresudp.org/wp-content/uploads/2018/07/royal-palace-1876479_640.jpg",
+        "owner": {
+           "id": 103,
+           "name": "Isabel",
+           "email": "isabel@airbnb.com"
+         }
+      },
+      {
+      "id": 4,
+      "name": "Ático de diseño",
+      "location": "Málaga",
+      "country": "España",
+      "description": "Increíble ático de diseño con vistas panorámicas a la bahía de Málaga.",
+      "price_per_night": 150,
+      "guest_capacity": 3,
+      "bedrooms": 1, 
+      "bathrooms": 2,
+      "amenities": ["Piscina", "Gimnasio", "Sauna"],
+      "image": "https://mayoresudp.org/wp-content/uploads/2018/07/barcelona-2691031_640.jpg",
+      "owner": {
+         "id": 104,
+         "name": "Laura",
+         "email": "laura@airbnb.com"
+      }
+    },
+    {
+      "id": 5, 
+      "name": "Casa adosada con patio",
+      "location": "Valencia",
+      "country": "España",  
+      "description": "Encantadora casa adosada con patio interior en el centro histórico de Valencia.",
+      "price_per_night": 135,
+      "guest_capacity": 4,
+      "bedrooms": 2,
+      "bathrooms": 1, 
+      "amenities": ["Patio", "Cocina"],
+      "image": "https://mayoresudp.org/wp-content/uploads/2018/07/sagrada-familia-552084_640.jpg", 
+      "owner": {
+         "id": 105,
+         "name": "Pedro ",
+         "email": "pedro@airbnb.com"
+       }
+    },
+    {
+      "id": 6,
+      "name": "Casa rural de lujo",
+      "location": "Sevilla", 
+      "country": "España", 
+      "description": "Espectacular casa rural privada con piscina y vistas a la campiña andaluza.",
+      "price_per_night": 350,
+      "guest_capacity": 8,
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "amenities": ["Piscina", "Jardín ", "Barbacoa"],
+      "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2018/05/22/15269908265339.jpg",
+      "owner": {
+         "id": 106,
+         "name": "María",
+         "email": "maria@airbnb.com"
+       }
+    },
+    {
+      "id": 7,
+      "name": "Apartamento en el centro histórico",
+      "location": "Granada",
+      "country": "España",
+      "description": "Apartamento en el centro histórico de Granada. A 5 minutos de la Alhambra.",
+      "price_per_night": 90,
+      "guest_capacity": 4,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "amenities": ["WiFi", "Cocina"],
+      "image": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1873485-media_library/original/c61d727f-342c-4586-be5e-7df5bf43f214.jpeg?im_w=1440",
+      "owner": {
+         "id": 107,
+         "name": "Carlos",
+         "email": "carlos@airbnb.com"
+         }
+        },
+        {
+        "id": 8,
+        "name": "Casa rural con piscina",
+        "location": "Cádiz",
+        "country": "España",
+        "description": "Casa rural con piscina privada y vistas a la campiña andaluza.",
+        "price_per_night": 200,
+        "guest_capacity": 6,
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "amenities": ["Piscina", "Jardín", "Barbacoa"],
+        "image": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1873485-media_library/original/abe2d236-88ab-4156-a082-bc3aea20923a.jpeg?im_w=1200",
+        "owner": {
+           "id": 108,
+           "name": "Sara",
+           "email": "carlos@airbnb.com"
+           }
+        },
+            {
+                "id": 9,
+                "name": "Apartamento moderno en la playa",
+                "location": "Barcelona",
+                "country": "España",
+                "description": "Hermoso apartamento moderno con vista al mar en Barcelona.",
+                "price_per_night": 200,
+                "guest_capacity": 4,
+                "bedrooms": 2,
+                "bathrooms": 1,
+                "amenities": ["Piscina", "Terraza", "WiFi"],
+                "image": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-311550-active_media/original/347bd11a-f11d-4b52-8680-bb9edd8c88c9.jpeg?im_w=1440",
+                "owner": {
+                    "id": 109,
+                    "name": "Juan",
+                    "email": "juan@airbnb.com"
+                }
+            },
+            {
+                "id": 10,
+                "name": "Casa de campo con piscina",
+                "location": "Madrid",
+                "country": "España",
+                "description": "Encantadora casa de campo con piscina en las afueras de Madrid.",
+                "price_per_night": 250,
+                "guest_capacity": 6,
+                "bedrooms": 3,
+                "bathrooms": 2,
+                "amenities": ["Piscina", "Jardín", "Barbacoa"],
+                "image": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-311550-media_library/original/3489704a-1ae2-4ea8-bbb9-01e873b12e64.jpeg?im_w=1440",
+                "owner": {
+                    "id": 110,
+                    "name": "Ana",
+                    "email": "ana@airbnb.com"
+                }
+            },
+            {
+                "id": 11,
+                "name": "Apartamento céntrico en Valencia",
+                "location": "Valencia",
+                "country": "España",
+                "description": "Acogedor apartamento en el centro de Valencia, cerca de todos los lugares de interés.",
+                "price_per_night": 120,
+                "guest_capacity": 2,
+                "bedrooms": 1,
+                "bathrooms": 1,
+                "amenities": ["WiFi", "Aire acondicionado"],
+                "image": "https://a0.muscache.com/im/pictures/290c7d3c-6532-46e0-8764-2ea3ffdc1729.jpg?im_w=1440",
+                "owner": {
+                    "id": 111,
+                    "name": "Luis",
+                    "email": "luis@airbnb.com"
+                }
+            },
+            {
+                "id": 12,
+                "name": "Ático de diseño con vistas al mar",
+                "location": "Málaga",
+                "country": "España",
+                "description": "Increíble ático de diseño con vistas panorámicas a la bahía de Málaga.",
+                "price_per_night": 150,
+                "guest_capacity": 3,
+                "bedrooms": 1,
+                "bathrooms": 2,
+                "amenities": ["Piscina", "Gimnasio", "Sauna"],
+                "image": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-4520120-media_library/original/b2929dcb-8933-4df7-8eb9-bc00728b406c.jpeg?im_w=1440",
+                "owner": {
+                    "id": 112,
+                    "name": "Laura",
+                    "email": "laura@airbnb.com"
+                }
+            },
+            {
+                "id": 13,
+                "name": "Casa adosada con patio",
+                "location": "Valencia",
+                "country": "España",
+                "description": "Encantadora casa adosada con patio interior en el centro histórico de Valencia.",
+                "price_per_night": 135,
+                "guest_capacity": 4,
+                "bedrooms": 2,
+                "bathrooms": 1,
+                "amenities": ["Patio", "Cocina"],
+                "image": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-4520120-media_library/original/83d509a7-7b31-4367-945e-d16bfd9b7233.jpeg?im_w=1440",
+                "owner": {
+                    "id": 113,
+                    "name": "Pedro",
+                    "email": "pedro@airbnb.com"
+                }
+            },
+            {
+                "id": 14,
+                "name": "Casa rural de lujo",
+                "location": "Sevilla",
+                "country": "España",
+                "description": "Espectacular casa rural privada con piscina y vistas a la campiña andaluza.",
+                "price_per_night": 350,
+                "guest_capacity": 8,
+                "bedrooms": 3,
+                "bathrooms": 3,
+                "amenities": ["Piscina", "Jardín", "Barbacoa"],
+                "image": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-4520120-media_library/original/d5542d39-ee45-4bc6-a5e5-4811dd449342.jpeg?im_w=1440",
+                "owner": {
+                    "id": 114,
+                    "name": "María",
+                    "email": "maria@airbnb.com"
+                }
+            },
+            {
+                "id": 15,
+                "name": "San Petersburgo, Rusia",
+                "country": "Rusia",
+                "description": "La Venecia del Norte. Hogar del Hermitage y la Catedral de San Isaac.",
+                "image": "https://example.com/st_petersburg.jpg",
+                "attractions": [
+                    {
+                        "name": "Museo del Hermitage",
+                        "description": "Uno de los museos más grandes y antiguos del mundo.",
+                        "image": "https://example.com/hermitage_museum.jpg"
+                    },
+                    {
+                        "name": "Catedral de San Isaac",
+                        "description": "Impresionante catedral ortodoxa rusa.",
+                        "image": "https://example.com/st_isaac_cathedral.jpg"
+                    }
+                ]
+            },
+            {
+                "id": 16,
+                "name": "Kioto, Japón",
+                "country": "Japón",
+                "description": "Antigua capital de Japón. Hogar de templos y jardines tradicionales.",
+                "image": "https://example.com/kyoto.jpg",
+                "attractions": [
+                    {
+                        "name": "Templo Kinkaku-ji",
+                        "description": "Templo cubierto de oro y rodeado de hermosos jardines.",
+                        "image": "https://example.com/kinkakuji.jpg"
+                    },
+                    {
+                        "name": "Templo Fushimi Inari",
+                        "description": "Santuario sintoísta famoso por sus miles de puertas torii.",
+                        "image": "https://example.com/fushimi_inari.jpg"
+                    }
+                ]
+            },
+            {
+                "id": 17,
+                "name": "Estambul, Turquía",
+                "country": "Turquía",
+                "description": "La ciudad de los dos continentes. Hogar de la Mezquita Azul y el Palacio de Topkapi.",
+                "image": "https://example.com/istanbul.jpg",                "price_per_night": 90,
+                "attractions": [
+                    {
+                        "name": "Mezquita Azul",
+                        "description": "Impresionante mezquita con cúpulas y minaretes.",
+                        "image": "https://example.com/blue_mosque.jpg"
+                    },
+                    {
+                        "name": "Palacio de Topkapi",
+                        "description": "Antiguo palacio otomano con tesoros y jardines.",
+                        "image": "https://example.com/topkapi_palace.jpg"
+                    }
+                ]
+            },
+            {
+                "id": 18,
+                "name": "Venecia, Italia",
+                "country": "Italia",
+                "description": "La ciudad de los canales. Hogar de la Plaza de San Marcos y el Puente de Rialto.",
+                "image": "https://example.com/venice.jpg",
+                "attractions": [
+                    {
+                        "name": "Plaza de San Marcos",
+                        "description": "Famosa plaza rodeada de impresionantes edificios.",
+                        "image": "https://example.com/st_marks_square.jpg"
+                    },
+                    {
+                        "name": "Puente de Rialto",
+                        "description": "Puente icónico que cruza el Gran Canal.",
+                        "image": "https://example.com/rialto_bridge.jpg"
+                    }
+                ]
+            },
+            {
+                "id": 19,
+                "name": "Praga, República Checa",
+                "country": "República Checa",
+                "description": "La ciudad dorada. Hogar del Castillo de Praga y el Puente de Carlos.",
+                "image": "https://example.com/prague.jpg",
+                "attractions": [
+                    {
+                        "name": "Castillo de Praga",
+                        "description": "Complejo de castillos históricos y palacios.",
+                        "image": "https://example.com/prague_castle.jpg"
+                    },
+                    {
+                        "name": "Puente de Carlos",
+                        "description": "Puente medieval con estatuas y vistas panorámicas.",
+                        "image": "https://example.com/charles_bridge.jpg"
+                    }
+                ]
+            },
+            {
+                "id": 20,
+                "name": "Dubái, Emiratos Árabes Unidos",
+                "country": "Emiratos Árabes Unidos",
+                "description": "La ciudad del lujo y la extravagancia. Hogar del Burj Khalifa y el Burj Al Arab.",
+                "image": "https://example.com/dubai.jpg",
+                "attractions": [
+                    {
+                        "name": "Burj Khalifa",
+                        "description": "El rascacielos más alto del mundo.",
+                        "image": "https://example.com/burj_khalifa.jpg"
+                    },
+                    {
+                        "name": "Burj Al Arab",
+                        "description": "Hotel de lujo en forma de vela.",
+                        "image": "https://example.com/burj_al_arab.jpg"
+                    }
+                ]
+            }
+        ]
+    }
+         

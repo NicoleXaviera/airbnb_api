@@ -1,0 +1,279 @@
+{
+  "places": [
+    {
+      "id": 1,
+      "name": "Torre Eiffel",
+      "location": "París, Francia",
+      "rating": 4.8,
+      "comment": "¡Increíble experiencia! Las luces de la ciudad desde arriba son impresionantes.",
+      "price": 25.00,
+      "currency": "EUR",
+      "duration": "2 horas",
+      "details": "Visita guiada a la Torre Eiffel con acceso a las diferentes plataformas y vistas panorámicas.",
+      "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/30/16801663944156.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Gran Muralla China",
+      "location": "Pekín, China",
+      "rating": 4.9,
+      "comment": "Una experiencia inolvidable. Las vistas panorámicas son asombrosas.",
+      "price": 30.00,
+      "currency": "USD",
+      "duration": "3 horas",
+      "details": "Excursión a la Gran Muralla China con guía, explorando secciones históricas y disfrutando de las vistas impresionantes.",
+      "image": "https://res.cloudinary.com/dnmryaeu6/image/upload/v1701447777/airbnb/places/uybxc9plspljr0ohrjl7.webp"
+    },
+    {
+      "id": 3,
+      "name": "Ciudad Prohibida",
+      "location": "Pekín, China",
+      "rating": 4.7,
+      "comment": "Una joya arquitectónica que refleja la historia imperial china.",
+      "price": 20.00,
+      "currency": "USD",
+      "duration": "2.5 horas",
+      "details": "Tour por la Ciudad Prohibida, explorando sus palacios y jardines.",
+      "image": "https://historia.nationalgeographic.com.es/medio/2021/03/03/la-puerta-de-la-divina-bravura_a27f5271_2000x1352.jpg",
+      "attractions": [
+        {
+          "name": "Palacio Imperial",
+          "description": "El corazón de la Ciudad Prohibida, lleno de salones y tesoros imperiales."
+        },
+        {
+          "name": "Jardines Paisajísticos",
+          "description": "Hermosos jardines con lagos y puentes de piedra."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Museo del Louvre",
+      "location": "París, Francia",
+      "rating": 4.5,
+      "comment": "Una experiencia cultural inolvidable. ¡Las obras de arte son impresionantes!",
+      "price": 15.00,
+      "currency": "EUR",
+      "duration": "3 horas",
+      "details": "Visita guiada al Museo del Louvre, explorando sus obras de arte más famosas.",
+      "image": "https://api-www.louvre.fr/sites/default/files/2021-01/cour-napoleon-et-pyramide_1.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Basílica de San Pedro",
+      "location": "Ciudad del Vaticano",
+      "rating": 4.6,
+      "comment": "Una experiencia espiritual inolvidable. ¡La arquitectura es impresionante!",
+      "price": 10.00,
+      "currency": "EUR",
+      "duration": "2 horas",
+      "details": "Visita guiada a la Basílica de San Pedro, explorando sus obras de arte más famosas.",
+      "image": "https://www.enroma.com/wp-content/uploads/2022/01/Basilica-de-San-Pedro-al-atardecer-scaled.webp"
+    },
+    {
+      "id": 6,
+      "name": "Museo Británico",
+      "location": "Londres, Reino Unido",
+      "rating": 4.4,
+      "comment": "Una experiencia cultural inolvidable. ¡Las obras de arte son impresionantes!",
+      "price": 20.00,
+      "currency": "GBP",
+      "duration": "3 horas",
+      "details": "Visita guiada al Museo Británico, explorando sus obras de arte más famosas.",
+      "image": "https://totenart.com/noticias/wp-content/uploads/2020/01/totenart-Museo-Britanico-Londres-1.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Acrópolis de Atenas",
+      "location": "Atenas, Grecia",
+      "rating": 4.7,
+      "comment": "Un lugar histórico impresionante. Las vistas desde la cima son espectaculares.",
+      "price": 18.00,
+      "currency": "EUR",
+      "duration": "2 horas",
+      "details": "Visita guiada a la Acrópolis de Atenas, explorando los antiguos templos y monumentos.",
+      "image": "https://cdn-imgix.headout.com/microbrands-banner-image/image/b698f96a3bf7e35418940973f33c4708-The%20Acropolis%20of%20Athens.jpeg"
+    },
+    {
+      "id": 8,
+      "name": "Coliseo Romano",
+      "location": "Roma, Italia",
+      "rating": 4.9,
+      "comment": "Una maravilla arquitectónica. La historia cobra vida al visitar este lugar.",
+      "price": 12.00,
+      "currency": "EUR",
+      "duration": "2.5 horas",
+      "details": "Tour por el Coliseo Romano, explorando sus ruinas y aprendiendo sobre la antigua Roma.",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fhistoria.nationalgeographic.com.es%2Fa%2Fcoliseo-roma-gladiadores-y-luchas-fieras_7275&psig=AOvVaw2qbNdTiKLfkUKPsrNfArSR&ust=1701534562633000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCigKzU7oIDFQAAAAAdAAAAABAH"
+    },
+    {
+      "id": 9,
+      "name": "Machu Picchu",
+      "location": "Cusco, Perú",
+      "rating": 4.8,
+      "comment": "Una experiencia mística. La ciudadela inca es impresionante.",
+      "price": 40.00,
+      "currency": "USD",
+      "duration": "4 horas",
+      "details": "Excursión a Machu Picchu, explorando las ruinas y disfrutando de las vistas panorámicas.",
+      "image": "https://historia.nationalgeographic.com.es/medio/2023/01/25/istock_bc3b04ec_930824730_230125152421_1280x853.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Estátua da Liberdade",
+      "location": "Nueva York, Estados Unidos",
+      "rating": 4.5,
+      "comment": "Un símbolo de libertad. Las vistas desde la corona son impresionantes.",
+      "price": 20.00,
+      "currency": "USD",
+      "duration": "2 horas",
+      "details": "Visita a la Estátua da Liberdade, explorando su historia y subiendo a la corona.",
+      "image": "https://www.viagempreferida.com.br/wp-content/uploads/2020/01/estatua-da-liberdade-nova-york.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Templo de Angkor Wat",
+      "location": "Siem Reap, Camboya",
+      "rating": 4.9,
+      "comment": "Un tesoro arqueológico. Los templos son impresionantes y llenos de historia.",
+      "price": 25.00,
+      "currency": "USD",
+      "duration": "3 horas",
+      "details": "Tour por el Templo de Angkor Wat, explorando sus templos y admirando la arquitectura.",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FAngkor&psig=AOvVaw0BNthNVZ_X7GmDmlrg9sYi&ust=1701534640448000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOiL4dHU7oIDFQAAAAAdAAAAABAH"
+    },
+    {
+      "id": 12,
+      "name": "Monte Fuji",
+      "location": "Tokio, Japón",
+      "rating": 4.7,
+      "comment": "Una experiencia natural única. Las vistas desde la cima son impresionantes.",
+      "price": 15.00,
+      "currency": "JPY",
+      "duration": "4 horas",
+      "details": "Excursión al Monte Fuji, explorando sus senderos y disfrutando de las vistas panorámicas.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Chuurei-tou_Fujiyoshida_17025277650_c59733d6ba_o.jpg/1200px-Chuurei-tou_Fujiyoshida_17025277650_c59733d6ba_o.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Taj Mahal",
+      "location": "Agra, India",
+      "rating": 4.8,
+      "comment": "Una maravilla arquitectónica. El Taj Mahal es impresionante al amanecer.",
+      "price": 20.00,
+      "currency": "INR",
+      "duration": "2 horas",
+      "details": "Visita guiada al Taj Mahal, explorando su belleza y aprendiendo sobre su historia.",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nationalgeographicla.com%2Fviajes%2F2018%2F02%2Ftaj-mahal-una-tumba-colosal-que-es-monumento-al-amor&psig=AOvVaw3l3qICTTsweCQzBagvAKN-&ust=1701534687648000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIjmsujU7oIDFQAAAAAdAAAAABAD"
+    },
+    {
+      "id": 14,
+      "name": "Cataratas del Iguazú",
+      "location": "Misiones, Argentina",
+      "rating": 4.9,
+      "comment": "Un espectáculo natural impresionante. Las cataratas son majestuosas.",
+      "price": 25.00,
+      "currency": "ARS",
+      "duration": "3 horas",
+      "details": "Excursión a las Cataratas del Iguazú, explorando los diferentes miradores y senderos.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/97/Foz_de_Igua%C3%A7u_27_Panorama_Nov_2005.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Monte Everest",
+      "location": "Himalayas, Nepal",
+      "rating": 4.7,
+      "comment": "Una experiencia de montañismo única. La cumbre del mundo es impresionante.",
+      "price": 50.00,
+      "currency": "USD",
+      "duration": "7 días",
+      "details": "Expedición al Monte Everest, escalando hasta la cumbre y disfrutando de las vistas panorámicas.",
+      "image": "https://static.nationalgeographic.es/files/styles/image_3200/public/everest-book-talk-climbers.jpg?w=1600&h=900"
+   },
+    {
+      "id": 16,
+      "name": "Museo Guggenheim Bilbao",
+      "location": "Bilbao, España",
+      "rating": 4.6,
+      "comment": "Una experiencia artística inolvidable. La arquitectura del museo es impresionante.",
+      "price": 18.00,
+      "currency": "EUR",
+      "duration": "2 horas",
+      "details": "Visita guiada al Museo Guggenheim Bilbao, explorando sus exposiciones y obras de arte.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Museo_Guggenheim%2C_Bilbao_%2831273245344%29.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Nevado Huascaran",
+      "location": "Cusco, Perú",
+      "rating": 4.8,
+      "comment": "Una experiencia mística. La ciudadela inca es impresionante.",
+      "price": 40.00,
+      "currency": "USD",
+      "duration": "4 horas",
+      "details": "Excursión a Nevado, explorando las ruinas y disfrutando de las vistas panorámicas.",
+      "image": "https://www.plataforma10.com.pe/viajes/wp-content/uploads/2023/05/nevado-desde-lejos-1024x686.webp"
+    },
+    {
+      "id": 18, 
+      "name": "Museos Vaticanos",
+      "location": "Ciudad del Vaticano, Italia",
+      "rating": 4.9,
+      "comment": "Obras de arte impresionantes y la maravillosa Capilla Sixtina.",
+      "price": 25.00,
+      "currency": "EUR",
+      "duration": "3 horas",
+      "details": "Tour por los Museos Vaticanos, la Capilla Sixtina y la Basílica de San Pedro.",  
+      "image": "https://colegia.es/wp-content/uploads/2020/11/consejos-y-normas-para-la-visita-de-los-museos-vaticanos-de-roma-1.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Stonehenge",
+      "location": "Wiltshire, Inglaterra", 
+      "rating": 4.5,
+      "comment": "Uno de los sitios neolíticos más fascinantes, rodeado de misterio.",
+      "price": 19.00, 
+      "currency": "GBP",
+      "duration": "90 minutos",
+      "details": "Visita al impresionante monumento megalítico de Stonehenge y sus alrededores.",
+      "image": "https://eu-assets.simpleview-europe.com/wiltshire2015/imageresizer/?image=%2Fdmsimgs%2FStonehenge_from_afar_2_2077038464.jpg&action=ProductDetail"  
+    },
+    {
+      "id": 20,
+      "name": "La Alhambra",
+      "location": "Granada, España",
+      "rating": 4.8,  
+      "comment": "Obra maestra de la arquitectura andalusí, imponente y delicada.",
+      "price": 18.00,
+      "currency": "EUR",
+      "duration": "2 horas",
+      "details": "Tour guiado por los Palacios Nazaríes y Jardines del Generalife.",
+      "image": "https://estaticos-cdn.prensaiberica.es/clip/385a8cff-860d-4819-88b8-47918a6c4191_source-aspect-ratio_default_0.jpg"
+    },
+    {
+      "id": 21,
+      "name": "Costa Amalfitana", 
+      "location": "Amalfi, Italia",
+      "rating": 5.0,
+      "comment": "Pueblos preciosos a orillas del mar Mediterráneo.",
+      "price": 45.00,
+      "currency": "EUR",
+      "duration": "8 horas",
+      "details": "Recorrido en autobús privado a lo largo de la impresionante Costa Amalfitana.",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/costa-amalfitana-viaje-mapa-fotos-que-ver-pueblos-hoteles-ruta-esquire-1568883867.jpg?resize=2048:*"
+    },  
+    {
+      "id": 22,
+      "name": "Santorini",
+      "location": "Grecia",
+      "rating": 4.9,
+      "comment": "Atardeceres inolvidables en este rincón volcánico único.",
+      "price": 35.00,
+      "currency": "EUR",
+      "duration": "Tour de día completo",
+      "details": "Tour en catamarán explorando las calas y acantilados de la isla.",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.lonelyplanet.com%2Farticles%2Ffirst-time-santorini-greece&psig=AOvVaw0HMZA1yFmXhc9qFRP85Xln&ust=1701535487752000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLiT4OXX7oIDFQAAAAAdAAAAABAD"
+    }
+    
+  ]
+}
